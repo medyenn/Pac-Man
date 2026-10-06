@@ -9,3 +9,5 @@ The Game class is the engine that keeps running the game loop, handling events, 
 The game now starts in the menu state, and clicking "Start" transitions to the playing state (which has just the maze rendered for now), while "Quit" exits the game. 
 + Adjusted screen dimensions for menu and playing states. (Menu: 800x600, Playing: is based on maze size)
 + Added a Makefile for easy installation and running of the game. Use "make install" to set up the environment and "make run" to start the game.
+
+Understand Project structure Before splitting the tasks
